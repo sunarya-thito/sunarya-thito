@@ -1,7 +1,7 @@
 # 💫 About Me
 👋 Hi! I'm a Computer Engineering student at Institut Teknologi Nasional Bandung.<br>
 
-## Skills and Experience
+## 🧠 Skills and Experience
 
 ### 🛠️ Java
 With 7 years of experience in Java, I've developed a deep understanding of the language. My expertise includes:
@@ -30,7 +30,7 @@ I have leveraged Python to develop innovative applications, including:
 I have experience in C++ for embedded systems, including:
 - **Arduino**: Developed a project to monitor air quality using various sensors, providing real-time data and analysis.
 
-## Projects
+## 📁 Projects
 - **[PluginQuery](https://github.com/sunarya-thito/PluginQuery)**: Allows spigot/bungeecord/velocity plugins to send plugin message without having to require the player to be online on the server
 - **[shadcn_flutter](https://github.com/sunarya-thito/shadcn_flutter)**: Shadcn/UI ported to Flutter
 - **[KiddoQuest](https://sunarya-thito.github.io/kiddo-quest/)**: An interactive puzzle and memory game
